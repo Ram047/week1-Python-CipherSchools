@@ -1,0 +1,7 @@
+print(1)
+print(1,2,3,"name",3.4,1+5, sep=",")
+print("hello", end=";")
+print("world 1")
+print("a", end=")")
+print("b")
+print("b")
